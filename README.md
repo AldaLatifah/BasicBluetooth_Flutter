@@ -1,4 +1,4 @@
-# flutter_getx_reactive_ble
+# Flutter Reactive Ble + Getx
 
 A new Flutter project.
 
